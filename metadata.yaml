@@ -1,0 +1,29 @@
+_repo: The-Poets-and-Poetry-of-Cecil-County-Maryland_12402
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Johnston, George
+    birthdate: 1829
+    deathdate: 1891
+    gutenberg_agent_id: '39364'
+    url: http://www.gutenberg.org/2009/agents/39364
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12402'
+  lccn: '14000835'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- Maryland -- Cecil County'
+- !lcsh 'Cecil County (Md.) -- Poetry'
+- !lcsh 'Cecil County (Md.) -- Intellectual life'
+- !lcsh 'Poets, American -- Homes and haunts -- Maryland -- Cecil County'
+- !lcc 'PS'
+- !lcsh 'Cecil County (Md.) -- Biography'
+- GITenberg
+title: The Poets and Poetry of Cecil County, Maryland
+url: http://www.gutenberg.org/ebooks/12402
